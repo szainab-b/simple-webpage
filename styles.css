@@ -1,0 +1,206 @@
+body {
+  font-size: 16px;
+  font-family: Arial;
+  margin: 0px 0px 0px 0px;
+}
+.senoir-div{
+  
+  
+}
+  
+.elevate-overall-container {
+  background-color: rgb(67, 104, 206);
+  padding: 250px 20px 200px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+  position: relative;
+
+}
+header {
+  background-color: #333;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  position: fixed;
+  right: 0px;
+  top: 0;
+  left: 0px;
+  z-index: 1;
+  width: 100% ;
+  padding: 25px 16px 25px 16px;
+
+}
+.ModernU{
+    color:white;
+}
+.home{
+    color:white;
+    margin-right: 32px
+}
+.Elevate {
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 3em;
+  color: white;
+  font-weight: bold;
+}
+.Create-modern {
+  text-align: center;
+  margin-top: 16px;
+  color: white;
+  font-size: 1.3em;
+}
+.Explore-button {
+  background-color: orange;
+  padding: 16px 16px 16px 16px;
+  border-radius: 30px;
+  border: none;
+  color: white;
+  font-size: 1em;
+  margin-top: 16px;
+  max-width: 27%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.Explore-button:hover {
+  background-color: darkorange;
+}
+.Our-Service-flex-container {
+  background-color: white;
+  padding: 50px 20px 50px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:20px;
+  
+  
+}
+.Design-container  {
+  background-color: #3498db;
+  padding: 20px 20px 20px 20px;
+  border-radius: 15px;
+  margin-left: 32px;
+  max-width: 60%;
+}
+.Development-container  {
+  background-color: #3498db;
+  padding: 20px 20px 20px 20px;
+  border-radius: 15px;
+  margin-left: 32px;
+  max-width: 60%;
+
+}
+
+.seo-container {
+  background-color: #3498db;
+  padding: 20px 20px 20px 20px;
+  border-radius: 15px;
+  margin-left: 32px;
+  max-width: 60%;
+}
+.our-mission-overall-container {
+  background-color: whitesmoke;
+  padding: 20px 20px 40px 20px;
+}
+.who {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-left: 32px
+}
+img {
+  width: 400px;
+  
+  border-radius: 5%;
+  padding-top: 0;
+  margin-left: 32px
+}
+.mission {
+  font-weight: bold;
+  margin-top: 3em;
+  margin-left: 32px
+}
+.modern-ui {
+  line-height: 30px;
+  font-size: 1em;
+  margin-left: 32px
+}
+.choose{
+  margin-left: 32px
+
+}
+ul {
+  line-height: 30px;
+  margin-left: 32px
+  
+}
+.form-overall-container {
+  background-color: #2c3e50;
+  padding: 80px 20px 80px 20px;
+  position: relative;
+  padding-top: 34px;
+  padding-left: 30px;
+}
+.get {
+  color: #27ae60;
+  font-size: 2em;
+  margin-bottom: 0;
+}
+.send {
+  color: white;
+  font-size: 1.2em;
+  margin-top: 5px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.name {
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  border: none;
+  width: 80%;
+}
+.email {
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  border: none;
+  max-width: 80%;
+}
+.textarea {
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  border: none;
+  max-width: 80%;
+}
+.submit {
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  border: none;
+  width: 80%;
+  margin-top: 16px;
+  background-color: #27ae60;
+}
+.Contact {
+  color: #27ae60;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.Contact-Information {
+  color: white;
+}
+footer {
+  background-color: #333;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  padding-top: 32px;
+  color: white;
+}
