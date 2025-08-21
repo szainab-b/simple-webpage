@@ -124,7 +124,7 @@ header {
 }
 .design {
   text-align: center;
-  font-size: clamp(1rem, 5vw, 2rem);
+  font-size: clamp(1rem, 5vw, 1.7rem);
 }
 .we-create {
   text-align: center;
